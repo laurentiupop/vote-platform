@@ -1,0 +1,68 @@
+--- 
+__version: '2.1'
+blog.scoutmures.ro: 
+  account_count: 0
+  accounts: {}
+
+calendar.scoutmures.ro: 
+  account_count: 0
+  accounts: {}
+
+catalin.scoutmures.ro: 
+  account_count: 0
+  accounts: {}
+
+cotizatii.scoutmures.ro: 
+  account_count: 0
+  accounts: {}
+
+facebook.scoutmures.ro: 
+  account_count: 0
+  accounts: {}
+
+festivalul-luminii.scoutmures.ro: 
+  account_count: 0
+  accounts: {}
+
+festivalul.luminii.scoutmures.ro: 
+  account_count: 0
+  accounts: {}
+
+inscrieri.scoutmures.ro: 
+  account_count: 0
+  accounts: {}
+
+mail.scoutmures.ro: 
+  account_count: 0
+  accounts: {}
+
+poze.scoutmures.ro: 
+  account_count: 0
+  accounts: {}
+
+scoutmures.ro: 
+  account_count: 5
+  accounts: 
+    catalin.catana: 
+      disk_mtime: '1479724081'
+      diskquota: 0
+      diskused: 5107
+    contact: 
+      disk_mtime: '1479724081'
+      diskquota: 262144000
+      diskused: 0
+    info: 
+      disk_mtime: '1479724081'
+      diskquota: 0
+      diskused: 6002
+    ioana.bandila: 
+      disk_mtime: '1479724081'
+      diskquota: 262144000
+      diskused: 3516
+    silvia.ghimbas: 
+      disk_mtime: '1479724081'
+      diskquota: 262144000
+      diskused: 34804
+  disk_mtime: '1479724081'
+  passwd_mtime: '1479724081'
+  quota_mtime: '1479724081'

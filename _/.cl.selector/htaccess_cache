@@ -1,0 +1,42 @@
+[/home2/scoutms/public_html]
+htaccess_list = /home2/scoutms/public_html/mail/.htaccess,/home2/scoutms/public_html/blog/.htaccess,/home2/scoutms/public_html/cotizatii/.htaccess,/home2/scoutms/public_html/catalin/.htaccess,/home2/scoutms/public_html/catalin/wp-content/plugins/akismet/.htaccess,/home2/scoutms/public_html/calendar/.htaccess,/home2/scoutms/public_html/poze/.htaccess,/home2/scoutms/public_html/test/libraries/vendor/.htaccess,/home2/scoutms/public_html/inscrieri/.htaccess,/home2/scoutms/public_html/.htaccess,/home2/scoutms/public_html/sites/default/files/composer/.htaccess,/home2/scoutms/public_html/sites/all/modules/visitors/.htaccess,/home2/scoutms/public_html/sites/all/modules/visitors/pChart/.htaccess,/home2/scoutms/public_html/facebook/.htaccess,/home2/scoutms/public_html/s3/scoutmures-images/composer/.htaccess,/home2/scoutms/public_html/s3/scoutmures-images/.htaccess
+
+[/home2/scoutms/public_html/blog]
+htaccess_list = /home2/scoutms/public_html/blog/.htaccess
+
+[/home2/scoutms/public_html/calendar]
+htaccess_list = /home2/scoutms/public_html/calendar/.htaccess
+
+[/home2/scoutms/public_html/catalin]
+htaccess_list = /home2/scoutms/public_html/catalin/.htaccess,/home2/scoutms/public_html/catalin/wp-content/plugins/akismet/.htaccess
+
+[/home2/scoutms/public_html/cotizatii]
+htaccess_list = /home2/scoutms/public_html/cotizatii/.htaccess
+
+[/home2/scoutms/public_html/facebook]
+htaccess_list = /home2/scoutms/public_html/facebook/.htaccess
+
+[/home2/scoutms/public_html/festivalul-luminii]
+htaccess_list = 
+
+[/home2/scoutms/public_html/inscrieri]
+htaccess_list = /home2/scoutms/public_html/inscrieri/.htaccess
+
+[/home2/scoutms/public_html/mail]
+htaccess_list = /home2/scoutms/public_html/mail/.htaccess
+
+[/home2/scoutms/public_html/poze]
+htaccess_list = /home2/scoutms/public_html/poze/.htaccess
+
+[/home2/scoutms/public_html/test]
+htaccess_list = /home2/scoutms/public_html/test/libraries/vendor/.htaccess
+
+[/home2/scoutms/public_html/test/public]
+htaccess_list = /home2/scoutms/public_html/test/public/.htaccess
+
+[/home2/scoutms/public_html/ag]
+htaccess_list = 
+
+[/home2/scoutms/public_html/bac]
+htaccess_list = 
+
